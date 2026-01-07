@@ -12,7 +12,7 @@ int main(){
                 cout<<j;
             }
         for(int j=i; j>=1; j--){
-            cout<<j;
+            cout<<j; 
         }
         cout<< endl;
         
