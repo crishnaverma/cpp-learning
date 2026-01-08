@@ -14,6 +14,6 @@ int Binary_to_Decimal(int n){
 }
 
 int main(){
-    cout<<Binary_to_Decimal(1111);
+    cout<<Binary_to_Decimal(10110);
     return 0;
 }
